@@ -1,0 +1,12 @@
+Port Scanner Results on facebook.com
+Protocol: tcp
+Port Range: 70-100
+Timeout: 1
+Start Time: 1716430076.0070808
+End Time: 1716430077.0349934
+
+Port 80 is open
+
+Scan completed in 1.0279126167297363 seconds.
+========================================
+
